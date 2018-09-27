@@ -1,0 +1,22 @@
+*.py[co]
+*.DS_*
+# Packages
+*.egg
+*.egg-info
+__pycache__/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Mr Developer
+*.pyc
+build
+
+db.sqlite3
+.idea
+
+cache
